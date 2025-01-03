@@ -49,10 +49,6 @@
 			"Enabled": false
 		},
 		{
-			"Name": "Metasound",
-			"Enabled": false
-		},
-		{
 			"Name": "NiagaraSimCaching",
 			"Enabled": false
 		},
